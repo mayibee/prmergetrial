@@ -1,1 +1,2 @@
-deneme
+denem
+bende degistirdim 
