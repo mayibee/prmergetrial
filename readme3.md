@@ -1,4 +1,5 @@
 1st version
 2nd version
 3rd version
-Merge conflict
+Very good conflict
+Additional lines
